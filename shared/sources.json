@@ -425,6 +425,22 @@
     "color": "gray",
     "interval": 1800000
   },
+  "bbc": {
+    "name": "BBC News",
+    "type": "realtime",
+    "column": "world",
+    "home": "https://www.bbc.com/news/world",
+    "color": "red",
+    "interval": 1800000
+  },
+  "guardian": {
+    "name": "The Guardian",
+    "type": "realtime",
+    "column": "world",
+    "home": "https://www.theguardian.com/world",
+    "color": "blue",
+    "interval": 1800000
+  },
   "jin10": {
     "name": "金十数据",
     "type": "realtime",
