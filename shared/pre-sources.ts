@@ -336,6 +336,22 @@ export const originSources = {
     desc: "不一定靠谱，多看多思考",
     home: "https://kaopu.news/",
   },
+  "bbc": {
+    name: "BBC News",
+    column: "world",
+    color: "red",
+    type: "realtime",
+    interval: Time.Common,
+    home: "https://www.bbc.com/news/world",
+  },
+  "guardian": {
+    name: "The Guardian",
+    column: "world",
+    color: "blue",
+    type: "realtime",
+    interval: Time.Common,
+    home: "https://www.theguardian.com/world",
+  },
   "jin10": {
     name: "金十数据",
     column: "finance",
